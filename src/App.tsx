@@ -3,8 +3,6 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import { DetailPage, HomePage } from "./pages";
 
-import "./App.css";
-
 function App() {
   return (
     <div className="App">
